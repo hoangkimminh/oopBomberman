@@ -1,0 +1,12 @@
+//Level 2
+wwwwwwwwwwwwwwwww
+wp bb  0b    bb1w
+w w w w w w w w w
+wb b0 b Pb b  b w
+w w w w w w w w w
+w#b bb b b b  bbw
+w w w w w w w w w
+wb b $bb b b 2  w
+w w w w w w w w w
+w 1 b  1  b bb 2w
+wwwwwwwwwwwwwwwww
