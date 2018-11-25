@@ -1,0 +1,12 @@
+//Level 1
+wwwwwwwwwwwwwww
+wp bb  0   bb0w
+w w w w w w w w
+wb b  b bb    w
+w w w w w w w w
+w b bP b b !bbw
+w w w w w w w w
+wb@b  bb b 0  w
+w w w w w w w w
+w 0 b  0  bb 0w
+wwwwwwwwwwwwwww
